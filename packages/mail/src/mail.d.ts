@@ -46,3 +46,4 @@ export = mail;
 
 export {MailService};
 export {MailDataRequired};
+export {ResponseError};
